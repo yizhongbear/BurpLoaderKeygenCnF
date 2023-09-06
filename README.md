@@ -1,3 +1,7 @@
+NOTICE: Forked from WankkoRee/BurpLoaderKeygenCnF
+————————————————————
+
+
 # BurpLoaderKeygenCnF [![GitHub Repo stars](https://img.shields.io/github/stars/WankkoRee/BurpLoaderKeygenCnF?style=social "GitHub Repo stars")](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
 
 BurpSuite Pro Loader & Keygen & Translator Fix ( BurpSuite version v2020.1 - ∞ )
